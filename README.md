@@ -1,0 +1,2 @@
+# FtxRebase
+TRUSTWALLET
